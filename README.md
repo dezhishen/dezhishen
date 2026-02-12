@@ -10,7 +10,4 @@
   <img alt="github-snake" src="assets/contribution-snake.svg" />
 </picture>
 
-### 📈Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=dezhishen&count_private=true&rank_icon=percentile&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
-
 ![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=sdniu)
